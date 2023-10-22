@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **challenging projects that makes me gain more insight in Full Stack Technology**
 
-- 📄 Know about my experiences [Currently a young student, working on honing my skills](Currently a young student, working on honing my skills)
+- 📄 Know about my experiences [Currently a young student, working on honing my skills]
 
 - ⚡ Fun fact **I enjoy recursively complicating problems and then unraveling them to simplify. Why? Because I love stacks.**
 
