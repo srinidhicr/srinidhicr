@@ -7,7 +7,6 @@
 
 - 👯 I’m looking to collaborate on **challenging projects that makes me gain more insight in Full Stack Technology**
 
-- ⚡ Fun fact **I enjoy recursively complicating problems and then unraveling them to simplify. Why? Because I love stacks.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
