@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Spotstat](https://github.com/srinidhicr/Spotify.git)
 
-- 🌱 I’m currently learning **Javascript, ReactJS**
+- 🌱 I’m currently learning **Javascript, and NodeJS**
 
 - 👯 I’m looking to collaborate on **challenging projects that makes me gain more insight in Full Stack Technology**
 
