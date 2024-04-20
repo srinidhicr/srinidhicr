@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srinidhi CR!</h1>
 <h3 align="center">A prolific developer constantly exploring new ideas and relentlessly seeking solutions to make something better.</h3>
 
-- 🔭 I’m currently working on [Spotstat](https://github.com/srinidhicr/Spotify.git)
+- 🔭 I’m currently working on [Camp-Cascade](https://github.com/srinidhicr/Camp-Cascade.git)
 
 - 🌱 I’m currently learning **Javascript, and NodeJS**
 
